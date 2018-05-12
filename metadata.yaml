@@ -1,0 +1,32 @@
+_repo: The-Ornithology-of-ShakespeareCritically-examined-explained-and-illustrated_41860
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41860-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Harting, James Edmund
+    birthdate: 1841
+    deathdate: 1928
+    gutenberg_agent_id: '41404'
+    url: http://www.gutenberg.org/2009/agents/41404
+description: ''
+gutenberg_issued: '2013-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41860'
+  lccn: '18004874'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds in literature'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Knowledge -- Ornithology'
+- !lcsh 'Ornithology -- England -- History -- 16th century'
+- !lcc 'PR'
+- !lcsh 'Birds -- England -- History -- 16th century'
+title: 'The Ornithology of Shakespeare
+
+  Critically examined, explained and illustrated'
+url: http://www.gutenberg.org/ebooks/41860
